@@ -26,15 +26,20 @@ These masks are **NOT** ground truth; they were used as *training targets* in th
 If you use this repository in your research, please cite the associated manuscript:
 
 **Manuscript (under review):**  
-[Author(s)], *Automatic classification of live pyramidal neurons in low-resolution inverted microscopy images using segmentation-derived representations*, manuscript under review, [Year].  
-URL: [link to preprint or project page, if available]
+Vazquez-Palacios, E., Flores-Hernandez, J., Barron-Zambrano, J.H. et al. Segmenting pyramidal neurons in low-resolution images: a new dataset and CNN-based evaluation. Neural Comput & Applic 38, 144 (2026). https://doi.org/10.1007/s00521-026-11867-w
+
+**Share this article**
+Anyone you share the following link with will be able to read this content: https://rdcu.be/fcgx6
 
 **BibTeX**
 ```bibtex
-@misc{vazquez2026manuscript,
-  title        = {Automatic classification of live pyramidal neurons in low-resolution inverted microscopy images using segmentation-derived representations},
-  author       = {Vazquez, Erendira and [Coauthor] and [Coauthor]},
-  year         = {2026},
-  note         = {Manuscript under review},
-  howpublished = {\url{https://github.com/Erendiravp/[REPO_NAME]}},
+@article{vazquez2026segmenting,
+  title={Segmenting pyramidal neurons in low-resolution images: a new dataset and CNN-based evaluation: E. Vazquez-Palacios et al.},
+  author={Vazquez-Palacios, E and Flores-Hernandez, J and Barron-Zambrano, JH and Altamirano-Aguilar, S and Peregrina-Barreto, H},
+  journal={Neural Computing and Applications},
+  volume={38},
+  number={5},
+  pages={144},
+  year={2026},
+  publisher={Springer}
 }
